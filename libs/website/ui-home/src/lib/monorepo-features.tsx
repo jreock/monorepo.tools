@@ -136,7 +136,6 @@ export function MonorepoFeatures() {
               </dt>
               <dd className="mt-4 text-gray-600 dark:text-gray-400">
               Gradle Build Tool supplies a local build cache natively. 
-              Gradle Enterprise adds support for replication and management.
               </dd>
             </div>
             <div className="p-4 bg-slate-100 dark:bg-slate-900 rounded-md border border-slate-200 dark:border-black">
